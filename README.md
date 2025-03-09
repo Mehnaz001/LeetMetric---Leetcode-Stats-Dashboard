@@ -1,4 +1,4 @@
-# 🌟 Leetmetric - Your Leetcode Stats Dashboard 🌟
+# 🌟 Leetmetric - Leetcode Stats Dashboard 🌟
 
 Leetmetric is a web app that lets you **track and visualize** your Leetcode journey in one sleek dashboard. 🧑‍💻 Whether you're solving problems for fun or aiming for the top, this tool will give you insights into your overall performance, problem breakdown by difficulty, and more!
 
@@ -43,8 +43,8 @@ Want to make Leetmetric even better? Here's how you can help:
 
 ## 📬 Contact
 
-- **GitHub**: [your-username](https://github.com/Mehnaz001) 🐱
-- **LinkedIn**: [your-linkedin](https://www.linkedin.com/in/mehnaz-sheikh) 💼
+- **GitHub**: [Mehnaz001](https://github.com/Mehnaz001) 🐱
+- **LinkedIn**: [Mehnaz Sheikh](https://www.linkedin.com/in/mehnaz-sheikh) 💼
 - **Email**: mehnaz62844@gmail.com ✉️
 
 ---
